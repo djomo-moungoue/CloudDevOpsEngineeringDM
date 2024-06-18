@@ -65,3 +65,11 @@ Vous travaillez sur le projet My First Project
 - Configurer des alertes de budget
 - Examiner les dépenses liées au produit
 
+Les localisations dans GCP
+- Une zone est un centre de calcul indépendant
+- Une région est une zone géographique qui contient au moins une zone. Les pays sont considérés commee des régions.
+- Une multi-région est une collection de régions géographiques.
+- Global: signifie n'importe où sur le globe.
+
+![CGP Zones And Regions](./Images/CGPZonesAndRegions.jpg)
+
