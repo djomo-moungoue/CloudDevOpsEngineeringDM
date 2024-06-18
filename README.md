@@ -1,6 +1,6 @@
 # Google Cloud Professional DevOps Engineer certification
 
-![GCP DevOps Engineer](./Images/GCPDevOpsEngineer.PNG)
+![GCP DevOps Engineer](./Images/GCPDevOpsEngineer.png)
 
 ## Introduction
 
