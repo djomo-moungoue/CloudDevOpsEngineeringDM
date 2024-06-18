@@ -49,8 +49,19 @@ Please note that certification details and requirements may change over time, so
 
 Since this is an advance certification, you are expected to have:
 - basics knowledge of compute engine, and
-- basics knowledg of Kubernetes and Docker
-- 
+- basics knowledge of Kubernetes and Docker
+
 Create A Free Trial GCP Account
 - Create a free trial GCP (Google Cloud Platform) account [here](https://cloud.google.com/free).
+
+Login Account: ngenmbhi@gmail.com
+
+Vous bénéficiez d'un essai gratuit 0  crédits utilisés sur 277 € Valable jusqu'au 17 septembre 2024
+
+Vous travaillez sur le projet My First Project
+- Numéro : 245760265955
+- ID : lateral-yew-426811-f1
+- Ajouter des personnes à votre projet
+- Configurer des alertes de budget
+- Examiner les dépenses liées au produit
 
