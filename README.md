@@ -71,5 +71,5 @@ Les localisations dans GCP
 - Une multi-région est une collection de régions géographiques.
 - Global: signifie n'importe où sur le globe.
 
-![CGP Zones And Regions](./Images/CGPZonesAndRegions.jpg)
+![GCP Zones And Regions](./Images/GCPZOnesAndRegions.PNG)
 
