@@ -1,5 +1,7 @@
 # Google Cloud Professional DevOps Engineer certification
 
+![GCP DevOps Engineer](./Images/GCPDevOpsEngineer.PNG)
+
 ## Introduction
 
 the Google Cloud Professional DevOps Engineer certification is designed for individuals who have experience implementing CI/CD pipelines, automating infrastructure, and managing application deployments on Google Cloud Platform (GCP). This certification demonstrates proficiency in using Google Cloud technologies to build highly scalable and reliable applications.
