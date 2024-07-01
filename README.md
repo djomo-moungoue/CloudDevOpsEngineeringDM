@@ -75,3 +75,44 @@ Les localisations de déploiement d'application dans GCP
 
 ![GCP Zones And Regions](./Images/GCPZOnesAndRegions.PNG)
 
+## Cloud Schell
+
+gcloud : permet de gérer les ressources et les flux de travail du cloud Google. 
+
+Quelques commandes utiles:
+~~~gcloud
+gcloud --help
+
+gcloud cheat-sheet
+
+ngenmbhi@cloudshell:~ (lateral-yew-426811-f1)$ gcloud cheat-sheet                                                                                                                                                                                  
+ngenmbhi@cloudshell:~ (lateral-yew-426811-f1)$ gcloud config set project clouddevopsengineeringdm
+Updated property [core/project].
+
+ngenmbhi@cloudshell:~ (clouddevopsengineeringdm)$ 
+
+ngenmbhi@cloudshell:~ (clouddevopsengineeringdm)$ pwd
+/home/ngenmbhi
+~~~
+
+![GCP Cloud Shell](./Images/GCPCloudShell.PNG)
+
+## Ingénierie de la fiabilité des sites - Site Reliability Engineering (SRE)
+
+Le DevOps est né du conflit entre les développeurs et les opérateurs.
+- Alors que les développeurs savent comment écrire du code, ajouter de nouvelles fonctionnalités, mettre à jour le logiciel et pousser le code plus rapidement vers la production sans s'occuper de la stabilité du logiciel,
+- les opérateurs savent déployer, surveiller et mettre à l'échelle les applications. Ils savent comment assembler le code, résoudre les problèmes de production et préfèrent que le nombre de mises à jour de l'application soit réduit au minimum.
+
+Le DevOps est un ensemble de pratiques, de lignes directrices et de culture visant à réduire le fossé entre le développement de logiciels et les opérations logicielles afin d'accroître la productivité. Le DevOps s'est fixé cinq objectifs :
+- Réduire les silos organisationnels
+- Accepter les bogues comme normal
+- Mettre en œuvre des changements graduels
+- Tirer parti de l'outillage et de l'automatisation
+- Tout mesurer
+
+L'Ingénierie de la fiabilité des sites est une implémentation concrète, une instance de la philosophie du DevOps, parce que le devops est très générale. Les pratiques d'ingénierie de la fiabilité des sites (SRE) sont les suivantes :
+- role et les responsabilités de l'Ingénierie de la fiabilité du site
+- post-mortem irréprochable
+- budgets d'erreur
+- réduire le travail
+- suivre les indicateurs de niveau de service, les SLI, les SLO, les SLA.
